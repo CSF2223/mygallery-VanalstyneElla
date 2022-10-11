@@ -3,7 +3,7 @@ Color Palette:
 background color:#E38B29
 font color:#FDEEDC
 secondary color:#FFD8A9
-tertiary color:#F1A661   
+tertiary color:#000000   
 */
 
 /* CSS syntax notes;
@@ -21,17 +21,17 @@ header {
     margin: 0 4rem;
     letter-spacing: 0.8rem;
     text-align: center;
-    border-bottom: 1px solid #826F66;
-    border-right: 1px solid #826F66;
-    border-left: 1px solid #826F66;
-    padding: 0.5rem;
+    border-bottom: 3px solid#FFD8A9;
+    border-right: 3px solid #FFD8A9;
+    border-left: 1px solid #FFD8A9;
+    padding: 1rem;
     box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
     text-transform:uppercase;
     font-size: 1.1rem;
 }
 body {
-    background-color:#3A3845;
-    color: #F7CCAC;
+    background-color:#E38B29;
+    color: #FDEEDC;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
@@ -64,7 +64,7 @@ body {
      
      .imageCard a {
          text-decoration: none;
-         color: #826F66;
+         color: #000000 ;
      }
      
      /*imageCard:hover {
@@ -73,7 +73,7 @@ body {
      */
      
      .cardText {
-         color: #C69B7B;
+         color: #000000 ;
          background: transparent;
          text-align: center;
          padding: 1.8rem;
