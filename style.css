@@ -85,6 +85,11 @@ body {
      
          
      @media (min-width: 768px){
+         
+         header {
+             font-size: 1.6rem;
+         }
+         
          .gallery{
              display: flex;
              flex-direction: row;
